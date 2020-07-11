@@ -13,6 +13,6 @@ I'm Bruno Alves, I'm a Front-end Engineer 👨‍💻 I love techonology and peo
 
 - About mandatrampo: Se você está precisando de recolocação ou divulgar seu pequeno negócio
   ou serviço, entra no mandatrampo e cadastre-se é fácil e bem rapidinho, ou senão, ajude 
-  divulgando esse projeto para quem precisa <3.
+  divulgando esse projeto para quem precisa ou mande um trampo para quem precisa <3.
 
   "Less is more".
