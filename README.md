@@ -8,5 +8,8 @@ I'm Bruno Alves, I'm a Front-end Engineer 👨‍💻 I love techonology and peo
 - 🌱 I’m currently learning React js, React Native, Node js and UI design (I'm in love).
 - 💬 Ask me about: tech, games, music and user interface design :=)
 -  ⚡ Technologies: React js, Node js, React-Native, Flutter, Sketch, inVision Studio and Figma <3
+- I led the front-end team that project -> http://www.mandatrampo.com.br/.
+
+- About mandatrampo: Se você está precisando de recolocação ou divulgar seu pequeno negócio ou serviço, entra no mandatrampo e cadastre-se é fácil e bem rapidinho, ou senão, ajude divulgando esse projeto para quem precisa <3.
 
 "Less is more".
