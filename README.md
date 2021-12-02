@@ -4,8 +4,8 @@
 ## Hi 👋, 
 I'm Bruno Alves, I'm a Software Engineer at Cheesecake Labs 👨‍💻 I love techonology and peoples.
 
-- 🔭 I’m currently working in development web apps on ReactJs with NextJs to server side.
-- 🌱 I’m currently studying React js, React Native, Node js and UI design (I'm in love).
+- 🔭 I’m currently working in development web and mobile apps using React, React Native or Flutter (and sometimes a use Node js for backend).
+- 🌱 I’m currently studying React js, React Native, Node js, Flutter and UI design (I'm in love).
 - 💬 Ask me about: tech, games, music and user interface design :=)
 -  ⚡ Technologies: React js, Node js, React-Native, Flutter, Sketch, inVision Studio and Figma <3
 - I led the front-end team that project -> http://www.mandatrampo.com.br/. We can launched this project
