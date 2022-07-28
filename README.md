@@ -1,6 +1,6 @@
 # Bruno Alves
 [![Linkedin Badge](https://img.shields.io/badge/-brunoalves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-alves-535292149/)](https://www.linkedin.com/in/bruno-alves-535292149/)
-[![Outlook Badge](https://img.shields.io/badge/-bruunofernandz@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bruno.costa36@fatec.sp.gov.br)](mailto:bruno.costa36@fatec.sp.gov.br)
+[![Outlook Badge](https://img.shields.io/badge/-bruunofernandz9@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bruno.costa36@fatec.sp.gov.br)](mailto:bruno.costa36@fatec.sp.gov.br)
 ## Hi 👋, 
 I'm Bruno Alves, I'm a Software Engineer at CI&T SOFTWARE S/A 👨‍💻 I love techonology and peoples.
 
