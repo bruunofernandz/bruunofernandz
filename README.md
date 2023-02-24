@@ -5,7 +5,7 @@
 I'm Bruno Alves working as Software Engineer at CI&T SOFTWARE S/A 👨‍💻 I love techonology and peoples.
 
 - 🔭 I’m currently working in development web and mobile apps using React, React Native or Flutter (and sometimes a use Node js for backend).
-- 🌱 I’m currently studying React js, React Native, Node js, Flutter and UI design (I'm in love).
+- 🌱 I’m currently studying React js, React Native, Node js, Flutter.
 - 💬 Ask me about: tech, games, music and user interface design :=)
 -  ⚡ Technologies: React js, Node js, React-Native, Flutter, Sketch, inVision Studio and Figma <3
 - I led the front-end team that project [offline] -> http://www.mandatrampo.com.br/. We can launched this project
